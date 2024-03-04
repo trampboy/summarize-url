@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/trampboy/summarize-url/issues"
   },
-  "homepage": "https://github.com/trampboy/summarize-url#readme"
+  "homepage": "https://github.com/trampboy/summarize-url#readme",
+  "dependencies": {
+    "readability": "^0.1.0"
+  }
 }
