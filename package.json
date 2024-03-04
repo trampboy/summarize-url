@@ -1,0 +1,23 @@
+{
+  "name": "summarize-url",
+  "version": "1.0.0",
+  "description": "Sumarize Url Content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trampboy/summarize-url.git"
+  },
+  "keywords": [
+    "summarize",
+    "url"
+  ],
+  "author": "trampboy <honggangjing@gmail.com> (https://github.com/trampboy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trampboy/summarize-url/issues"
+  },
+  "homepage": "https://github.com/trampboy/summarize-url#readme"
+}
